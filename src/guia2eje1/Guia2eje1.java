@@ -20,6 +20,8 @@ public class Guia2eje1 {
     public static void main(String[] args) {
 
 VentanaLogueo venLog=new VentanaLogueo();
+         System.out.println("Este es un cambio realizado");
     }
+    
     
 }
